@@ -30,7 +30,6 @@ class InvestorList extends Component {
                     )}
                 />
             </View>
-
         )
     }
 }
