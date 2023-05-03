@@ -3,7 +3,6 @@ import { View, Text, StyleSheet, FlatList, TouchableOpacity, Alert } from 'react
 import Investors from "./Investorlist.json"
 
 class InvestorList extends Component {
-
     handleOnPress = (item) => {
         this.props.navigation.navigate('InvestorInfo')
     }
