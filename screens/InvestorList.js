@@ -34,7 +34,6 @@ class InvestorList extends Component {
     }
 }
 export default InvestorList
-
 const styles = StyleSheet.create({
     viewContainer: {
         flex: 1,
